@@ -49,7 +49,7 @@ int main() {
     while(t--) {
         int n, x;
         cin >> n >> x;
-        fr(i, n) cin >> a[i];
+        // fr(i, n) cin >> a[i];
 
     }
     return 0;
